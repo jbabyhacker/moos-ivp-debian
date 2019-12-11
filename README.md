@@ -1,6 +1,6 @@
 # moos-ivp-debian
 
-Downloads and build debian packages for moos-ivp
+Downloads and build debian packages for [MOOS-IvP](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Main.HomePage)
 
 ### 
 ```
